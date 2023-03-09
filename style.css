@@ -179,6 +179,9 @@ nav .profile-area .theme-btn .active{
    border-radius: var(--border-radius-2);
    color: var(--color-white); 
 }
+.card{
+    width: 320px;
+}
 nav .profile-area .profile{
     display: flex;
     gap: 1rem;
