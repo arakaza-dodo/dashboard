@@ -41,6 +41,8 @@ background:  var(--color-light);
 font-family: poppins,sans-serif;
 min-height: 100vh;
 color: black;
+width: 100vw;
+overflow-x: hidden;
 }
 img{
     width: 100%;

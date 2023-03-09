@@ -1,5 +1,4 @@
-const chart = document.querySelector("#chart").getcontext('2d');
-
+const chart = document.querySelector("#chart")
 //create a new chart instance
 new Chart(chart, {
     type:'line',
